@@ -1,0 +1,9 @@
+{
+  "sites": {
+    "eds-microsite-poc": {
+      "previewOrg": "tlt-accenture",
+      "previewSite": "eds-microsite-poc",
+      "contentHostUrl": "https://content.da.live/tlt-accenture/eds-microsite-poc/"
+    }
+  }
+}
